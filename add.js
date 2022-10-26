@@ -1,3 +1,4 @@
+//                    To create a calculator for every possible Math question (Arithmatic,logrithmic,trignometric,primeter & Area, Matrix Calculation)
 // the function is creted for the arithmatic calculator 
 function arithmaticCalculator(){
     let x = parseInt(prompt('enter the first element'));
